@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "sq6" );
+        System.out.println( "sq67" );
     }
 }
